@@ -11,11 +11,11 @@
 </p>
 
 ### End Effector
-<img height="880" src="images/end_effector.jpg" width="400" alt="End-Effector" title="End-Effector"/>
+<img height="579" src="images/end_effector.jpg" width="463" alt="End-Effector" title="End-Effector"/>
 
 ### Final Assembly
-<img height="400" src="images/final_assembly_1.jpg" width="400" alt="Final-Assembly-1" title="Final-Assembly-1"/>
-<img height="400" src="images/final_assembly_2.jpg" width="400" alt="Final-Assembly-2" title="Final-Assembly-2"/>
+<img height="400" src="images/final_assembly_1.jpg" width="800" alt="Final-Assembly-1" title="Final-Assembly-1"/>
+<img height="800" src="images/final_assembly_2.jpg" width="500" alt="Final-Assembly-2" title="Final-Assembly-2"/>
 
 
 ## Videos
