@@ -21,9 +21,9 @@
 ## Videos
 ### Welding Operation
 
-[![Watch the video](images/play.png)](videos/Box_Weld.mp4)
+[![Watch the video](images/box_weld_thumbnail.png)](videos/Box_Weld.mp4)
 
 
 ### Laser Cutting Operation
 
-[![Watch the video](images/play.png)](videos/VI_Logo_Laser_Cutting.mp4)
+[![Watch the video](images/laser_cutting_thumbnail.png)](videos/VI_Logo_Laser_Cutting.mp4)
