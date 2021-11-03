@@ -1,5 +1,7 @@
 # 3D-Printed-Robotic-Arm
 
+This repository contains of the 3D model and code for a custom design of a 5DOF robotic arm.
+
 ## Images
 ### 3D Printed Parts
 <img height="400" src="images/3d_printed_parts.jpg" width="400" alt="3D-Printed-Parts" title="3D-Printed-Parts"/>
